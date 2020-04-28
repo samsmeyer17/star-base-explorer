@@ -6,6 +6,5 @@
 ## Technologies Used:
 ##### Unity, C#
 
-##### Link to deployed game:
-
+##### Link to deployed game: https://sharemygame.com/@samuelvmeyer/star-base-explorer
 
